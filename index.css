@@ -8052,7 +8052,7 @@
   }
 
 
-  @media only screen and (max-width: 600px) {
+ @media screen and (min-width: 600px) {      
    #DIV_2
    {
     margin-block-end: 40px;
@@ -8073,4 +8073,90 @@
     margin-inline-end: 40px;
     margin-inline-start: 40px;
    } 
+  }
+  @media only screen and (min-width: 1200px){
+    #DIV_2
+    {
+        block-size: 63.9922px;
+        border-block-end-color: rgb(229, 231, 235);
+        border-block-end-style: solid;
+        border-block-start-color: rgb(229, 231, 235);
+        border-block-start-style: solid;
+        border-inline-end-color: rgb(229, 231, 235);
+        border-inline-end-style: solid;
+        border-inline-start-color: rgb(229, 231, 235);
+        border-inline-start-style: solid;
+        box-sizing: border-box;
+        caret-color: rgb(54, 54, 54);
+        color: rgb(54, 54, 54);
+        column-rule-color: rgb(54, 54, 54);
+        height: 63.9922px;
+        inline-size: 793.695px;
+        margin-block-end: 40px;
+        margin-block-start: 40px;
+        margin-inline-end: 323.156px;
+        margin-inline-start: 323.148px;
+        padding-inline-end: 16px;
+        padding-inline-start: 16px;
+        perspective-origin: 396.844px 31.9922px;
+        tab-size: 4;
+        text-decoration: none solid rgb(54, 54, 54);
+        text-size-adjust: 100%;
+        transform-origin: 396.848px 31.9961px;
+        width: 793.695px;
+        border: 0px solid rgb(229, 231, 235);
+        font: 16px / 24px "Open Sans", sans-serif;
+        margin: 40px 323.156px 40px 323.148px;
+        outline: rgb(54, 54, 54) none 0px;
+        padding: 0px 16px;
+    } 
+    #DIV_9
+    {
+        block-size: 1500px;
+        border-block-end-color: rgb(229, 231, 235);
+        border-block-end-style: solid;
+        border-block-start-color: rgb(229, 231, 235);
+        border-block-start-style: solid;
+        border-inline-end-color: rgb(229, 231, 235);
+        border-inline-end-style: solid;
+        border-inline-start-color: rgb(229, 231, 235);
+        border-inline-start-style: solid;
+        bottom: 0px;
+        box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px;
+        box-sizing: border-box;
+        caret-color: rgb(54, 54, 54);
+        color: rgb(54, 54, 54);
+        column-rule-color: rgb(54, 54, 54);
+        display: grid;
+        grid-template-columns: 261.914px 531.781px;
+        grid-template-rows: 1500px;
+        height: 1500px;
+        inline-size: 793.695px;
+        inset-block-end: 0px;
+        inset-block-start: 0px;
+        inset-inline-end: 0px;
+        inset-inline-start: 0px;
+        left: 0px;
+        margin-inline-end: 323.156px;
+        margin-inline-start: 323.148px;
+        max-block-size: 1500px;
+        max-height: 1500px;
+        min-block-size: 1500px;
+        min-height: 1500px;
+        perspective-origin: 396.844px 561.258px;
+        position: relative;
+        right: 0px;
+        tab-size: 4;
+        text-decoration: none solid rgb(54, 54, 54);
+        text-size-adjust: 100%;
+        top: 0px;
+        transform-origin: 396.848px 561.258px;
+        width: 793.695px;
+        background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+        border: 0px solid rgb(229, 231, 235);
+        font: 16px / 24px "Open Sans", sans-serif;
+        margin: 0px 323.156px 0px 323.148px;
+        outline: rgb(54, 54, 54) none 0px;
+    } 
+    
   }
