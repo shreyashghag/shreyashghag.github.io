@@ -1,5 +1,5 @@
 #DIV_1 {
-    block-size: 641.805px;
+    block-size: auto;
     border-block-end-color: rgb(229, 231, 235);
     border-block-end-style: solid;
     border-block-start-color: rgb(229, 231, 235);
@@ -12,7 +12,7 @@
     caret-color: rgb(54, 54, 54);
     color: rgb(54, 54, 54);
     column-rule-color: rgb(54, 54, 54);
-    height: 641.805px;
+    height: auto;
     inline-size: 1440px;
     min-inline-size: auto;
     min-width: auto;
