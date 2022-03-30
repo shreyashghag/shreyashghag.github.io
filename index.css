@@ -8050,3 +8050,27 @@
     -webkit-transform: scale(1.2); /* Safari 3-8 */
     transform: scale(1.2); 
   }
+
+
+  @media only screen and (max-width: 600px) {
+   #DIV_2
+   {
+    margin-block-end: 40px;
+    margin-block-start: 40px;
+
+    margin: 40px 40px 40px 40px;
+
+    margin-inline-end: 40px;
+    margin-inline-start: 40px;
+   } 
+   #DIV_9
+   {
+    margin-block-end: 40px;
+    margin-block-start: 40px;
+
+    margin: 40px 40px 40px 40px;
+
+    margin-inline-end: 40px;
+    margin-inline-start: 40px;
+   } 
+  }
